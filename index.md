@@ -18,3 +18,5 @@ When you have completed the template, submit the link to the GitHub Pages site f
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/Assessment-2/master/Prototyping%20Project.010.jpeg)
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/Assessment-2/master/Prototyping%20Project.011.jpeg)
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/Assessment-2/master/Prototyping%20Project.012.jpeg)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/Assessment-2/master/Prototyping%20Project.0078.jpeg)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/Assessment-2/master/Prototyping%20Project.0077.jpeg)
